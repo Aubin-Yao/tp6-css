@@ -1,0 +1,35 @@
+h1 {
+    color: #FCFCFC;
+    background-color: #118B50;
+    position:sticky;
+    top: 0;
+    height: 100px;
+    margin: auto;
+ }
+
+.note {
+    color: #1c1c1c;
+    background-color: #E3F0AF;
+    font-family: Roboto;
+    padding: 20px 10px;
+    margin: 20px auto;
+    border-radius: 20px;
+    width: 50%;
+    
+
+}
+button{
+    color: #FCFCFC;
+    border: #118B50;
+    border-radius: 20px;
+    background-color: #118B50;
+    padding: 20px;
+    position: sticky;
+    right: 20px;
+    position: fixed;
+    bottom: 50px;
+    cursor: pointer;
+}
+button{
+    opacity: 0.5;
+}
